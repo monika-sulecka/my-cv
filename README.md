@@ -1,3 +1,7 @@
+### About project => The project will include information about me. Over time it will develop with sections like interests, other fields of study, courses taught.
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
