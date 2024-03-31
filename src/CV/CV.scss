@@ -1,0 +1,18 @@
+@import '../variables';
+@import '../Details/Details.scss';
+@import '../Header/Header.scss';
+@import '../Personal/Personal.scss';
+
+.cv-main {
+    max-width: 850px;
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas: "header header" "personal details";
+    grid-template-columns: 200px 1fr
+}
+
+
+
+
+
